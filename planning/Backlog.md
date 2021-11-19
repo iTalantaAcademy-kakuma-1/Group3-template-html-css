@@ -32,5 +32,4 @@ __
   > would be really cool ... if there's time
   * As a user will smile(or roll their eyes) when they read our page 
      - [ ] there are some silly animations
-
   
