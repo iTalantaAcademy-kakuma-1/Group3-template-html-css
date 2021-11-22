@@ -74,3 +74,6 @@
 .bouncy-img:hover {
   animation: bounce 1s;
 }
+body {
+  background-color: blue;
+}
