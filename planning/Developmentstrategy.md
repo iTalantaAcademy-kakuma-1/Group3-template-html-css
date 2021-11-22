@@ -1,8 +1,10 @@
 **All About Trees**
 
 > `only must` have user stories need to be in the development strategy
-A simple little website about trees
----
+
+A simple little website about trees.
+
+____
 
 > all issues in this section have a `for: site title` label
 
@@ -10,13 +12,14 @@ A simple little website about trees
 ----
 > "as a user I can read the title of the page"
 
-the site needs a clear title thats easy to read at the top of the page.
+The site needs a clear title thats easy to read at the top of the page.
 
 **Site Title: Interface**
 > all the issues under this header have a `type: interface` label
   * Header with centred title
       * (this list can be copy-pasted as a checklist in the issue)
       * (you might add an  `html` and `css` label to this issue)
+          
           
         [] HTML: a page header with the title
 
@@ -67,7 +70,7 @@ some more links for students who want to go beyond the basics
   [] HTML: some helpful text and a reference link
 
   [] CSS: styling to position aside
-  
+
   [] CSS: styling to style the text
 
     
